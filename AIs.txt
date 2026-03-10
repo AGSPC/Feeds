@@ -10,7 +10,6 @@ qrcode-ai.com
 app.codegpt.co
 chatgpt.bestim.org
 talkai.info
-quizlet.com
 hypotenuse.ai
 chat.kuki.ai
 my.replika.com
