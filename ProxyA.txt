@@ -203,7 +203,6 @@ vercel.app
 neocities.org
 netlify.app
 playcode.io
-codepen.io
 wea-f.github.io
 itafricagroup.com
 showmyhomes.com
