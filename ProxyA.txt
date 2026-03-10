@@ -527,6 +527,8 @@ freenomisratelimitingme.cf
 freepuff.buzz
 freewebforall.online
 freonlinux.com
+frigginpacketyo.global.ssl.fastly.net
+frigginpaketyo.global.ssl.fastly.net
 frii.site
 frogie.one
 froissart.eu
@@ -1294,6 +1296,7 @@ scaratek.me
 schoology.lat
 schoology.pro
 schooloqy.com
+schoology.com.de
 schoolplanning.xyz
 schoolsprepared.org
 science4noobs.co
@@ -1678,3 +1681,12 @@ zoneitshop.com
 zotova.ca
 zwanenwater48.nl
 zzylos.lol
+liberator-server.azurewebsites.net
+north-kazakhstan.su.cdn.cloudflare.net
+wiki-edu.xyz.cdn.cloudflare.net
+seficmath.site.cdn.cloudflare.net
+sibmed.org.ru
+supergisfire.com.cdn.cloudflare.net
+adidasnmdcitysock.com.cdn.cloudflare.net
+vincenzodimaro.it
+punctual-lilac-dingo.global.ssl.fastly.net
