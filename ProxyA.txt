@@ -2059,8 +2059,11 @@ goldmanconsulting.com.au
 voyagin.ru
 joaogrillo.co
 nicher.cl
-calculra.store.cdn.cloudfront.net
-artweb.website.cdn.cloudfront.net
+calculra.store.cdn.cloudflare.net
+artweb.website.cdn.cloudflare.net
 is-not.cool
 is-a.software
 env.pm
+skysthelimit.dev.cdn.cloudflare.net
+mrunderweight.global.ssl.fastly.net
+readingcomputertools.lat
