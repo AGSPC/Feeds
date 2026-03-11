@@ -1630,7 +1630,6 @@ heeky.com
 helixarcade.space
 helooo.com
 helpwithschool.online
-herokuapp.com
 hexaproxy.com
 hey-hosting.co.uk
 heyhide.com
@@ -4474,7 +4473,6 @@ we-trade.cl
 weathernet.gq
 web-proxy.in
 web-unlock.net
-web.app
 web2proxy.net
 web2proxy.tk
 web4proxy.com
