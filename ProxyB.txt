@@ -2734,7 +2734,6 @@ onlineschool.design
 onlinesurfing.cn
 onlycs.net
 onlymp3.app
-onrender.com
 ontariobsd.net
 onthewifi.com
 onvm.me
@@ -4725,7 +4724,6 @@ zum.in
 zzoop.com
 cyclic.sh
 railway.app
-onrender.com
 glitch.me
 replit.co
 repl.co
