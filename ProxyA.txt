@@ -2396,3 +2396,5 @@ aa1.ch
 riaueventorganizer.com
 1337.cx
 marine1.com.my
+study-with.b-cdn.net
+thinking.is-a.software.cdn.cloudflare.net
