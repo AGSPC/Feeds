@@ -2397,4 +2397,9 @@ riaueventorganizer.com
 1337.cx
 marine1.com.my
 study-with.b-cdn.net
-thinking.is-a.software.cdn.cloudflare.net
+is-a.software.cdn.cloudflare.net
+mathtextbooks.b-cdn.net
+galaxysoft.ro
+human.li
+chats.cf
+saladandgo-menu.info
