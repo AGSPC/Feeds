@@ -3414,7 +3414,7 @@ erichugel.com
 creao-build-studio-production.s3-us-west-2.amazonaws.com
 beanweb.qzz.io.cdn.cloudflare.net
 cautinvestitor.ro.cdn.cloudflare.net
-dev.i-ready.com.de.cdn.cloudflare.net
+i-ready.com.de.cdn.cloudflare.net
 prostitutki-na-vyezd.com
 aubreyisd.org
 thestatesman.us
@@ -3422,3 +3422,12 @@ suntree.network
 cdn.jsdelivr.net/gh/genizy
 cdn.jsdelivr.net/gh/a456pur
 d1tm91r4ytbt54.cloudfront.net
+makovecz.com
+secure-math-deltamath.b-cdn.net
+webracuni.hr
+odoobooks.com
+mushroomvita.blog
+fanqyxl.net
+sgigestion.com
+purpleswings.com
+sciencecomputers.lat
