@@ -4914,7 +4914,6 @@ radon.games
 terbiumux.net
 ludiub.com
 breakingpar.com
-netlify.app
 desp.icable.me
 googlecalendar.gq
 darianm.com
