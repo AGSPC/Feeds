@@ -199,7 +199,6 @@ quiz25.live
 d11jzht7mj96rr.cloudfront.net
 vercel.app
 neocities.org
-netlify.app
 playcode.io
 wea-f.github.io
 itafricagroup.com
@@ -1125,7 +1124,6 @@ mordeco.com
 msg.boats
 net1jty.app
 net95.org
-netlify.app
 netlity.app
 netnty.app
 no.io
@@ -1600,7 +1598,6 @@ neoneptune.com
 net4ria.com
 net95.org
 netinfotechnology.com
-netlify.app
 nex.sh
 nick2116.media
 nigelupchurch.com
@@ -2224,7 +2221,6 @@ mitcpw.org
 monkeywills.com
 mooo.com
 msinformatica.com.ar
-netlify.app
 nicksbb.com
 nirbytes.com
 nirmx.co
