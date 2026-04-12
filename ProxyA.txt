@@ -4614,3 +4614,9 @@ poptour.com.ar
 s4r4.com
 siasolution.com
 swds.com.au
+krishokbarta24.com
+daniel-robinson-10.b-cdn.net
+s3.amazonaws.com/deltamath-demo
+storage.googleapis.com/daydreaming
+i-ready.com.de.cdn.cloudflare.net
+s3.amazonaws.com/lucidestatic
