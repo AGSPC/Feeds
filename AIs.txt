@@ -2,7 +2,6 @@ perplexity.ai
 chatgpt1s.com
 qanda.ai
 writer.com
-claude.ai
 computer.com
 vercel.ai
 tutorly.ai
@@ -203,7 +202,6 @@ smart-tools.ai
 hunts.ai
 liveapps.ai
 powerusers.ai
-claude.ai
 covers.ai
 artemisia.ai
 facet.ai
@@ -289,7 +287,6 @@ soulgen.ai
 spicychat.ai
 staccato.ai
 steve.ai
-suno.ai
 tammy.ai
 typecast.ai
 uberduck.ai
