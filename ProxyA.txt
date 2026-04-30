@@ -4371,7 +4371,7 @@ bamastuff.com
 reformarchive.com
 easycoding.b-cdn.net
 easyphics.b-cdn.net
-cdn.jsdelivr.net/gh/coinbaselarper/svg@latest/logo.svg
+cdn.jsdelivr.net/gh/coinbaselarper
 paukenschlag-blog.org
 dinocol.co.uk
 hotelconsuladoinn.com
@@ -4395,9 +4395,9 @@ classyportal.com
 trottparkfencingclub.org.au  
 vixenlights.com
 art-motel.com
-customiseta.com/
+customiseta.com
 democrata.ar
-ferrosider.com.ar/
+ferrosider.com.ar
 naturalie.net
 jyotsnapandey.com.np
 pittentrepreneur.com 
@@ -4409,7 +4409,6 @@ globaltutors.me.cdn.cloudflare.net
 globaltutors.me
 maxmir-energy.ru
 math.qd.je
-edu.math.qd.je
 academinctools.pw
 celestialdevsalot.github.io
 sovnarkom.org
