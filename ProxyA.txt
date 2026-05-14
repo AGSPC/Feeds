@@ -3184,7 +3184,7 @@ biologia.b-cdn.net
 chorus.b-cdn.net
 sciency.b-cdn.net
 rainy.b-cdn.net
-s3.amazonaws.com/ghst
+ghst.s3.amazonaws.com
 qd.je
 nchped.org.np
 ghst.s3.us-east-1.amazonaws.com
