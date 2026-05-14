@@ -4415,12 +4415,12 @@ sovnarkom.org
 messwithdns.com
 cdn.jsdelivr.net/gh/Eraclio28
 cdn.jsdelivr.net/gh/deviceillusion-cyber
-s3.amazonaws.com/macrolo
-s3.amazonaws.com/macrolomath
-s3.amazonaws.com/macrologoat
-s3.amazonaws.com/misting2
-s3.amazonaws.com/macmist
-s3.amazonaws.com/mistmac
+macrolo.s3.amazonaws.com
+macrolomath.s3.amazonaws.com
+macrologoat.s3.amazonaws.com
+misting2.s3.amazonaws.com
+macmist.s3.amazonaws.com
+mistmac.s3.amazonaws.com
 albacetediario.com
 banghers.com
 divvyboard.com
@@ -4716,9 +4716,6 @@ dreaming.b-cdn.net
 vcsagoat.b-cdn.net
 vibecoding.b-cdn.net
 palmbeachschools.b-cdn.net
-s3.amazonaws.com/mathvc
-s3.amazonaws.com/readvc
-s3.amazonaws.com/writevc
 mathvc.s3.amazonaws.com
 readvc.s3.amazonaws.com
 writevc.s3.amazonaws.com
@@ -4866,7 +4863,6 @@ truefruit.tw
 airlinemeals.net
 xylora.space
 george-washington2345.b-cdn.net
-s3.amazonaws.com/slantsite
 earlyriserscoffeeshop.com
 caxata.com
 shi-n.ing
@@ -4874,9 +4870,7 @@ colloky.com.pe
 tanenbaumchat.org
 caheobay.com
 vcsamath.s3.amazonaws.com
-s3.amazonaws.com/vcsamath
 vcsareading.s3.amazonaws.com
-s3.amazonaws.com/vcsareading
 responsiveeducation.org
 angel.place
 nettelcorp.com
