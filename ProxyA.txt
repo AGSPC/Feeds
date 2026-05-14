@@ -5036,3 +5036,13 @@ dllontop.org
 s3.amazonaws.com/mathvc
 s3.amazonaws.com/readvc
 s3.amazonaws.com/writevc
+s3.amazonaws.com/ghst
+s3.amazonaws.com/macrolo
+s3.amazonaws.com/macrolomath
+s3.amazonaws.com/macrologoat
+s3.amazonaws.com/misting2
+s3.amazonaws.com/macmist
+s3.amazonaws.com/mistmac
+s3.amazonaws.com/vcsareading
+s3.amazonaws.com/vcsamath
+s3.amazonaws.com/slantsite
