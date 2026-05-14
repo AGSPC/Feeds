@@ -5033,3 +5033,6 @@ pub-a83c2e2eca084e1c9363042179f3f71b.r2.dev
 cdn.jsdelivr.net/gh/Stellite-Games
 stellite.games
 dllontop.org
+s3.amazonaws.com/mathvc
+s3.amazonaws.com/readvc
+s3.amazonaws.com/writevc
