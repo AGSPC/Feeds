@@ -171,7 +171,6 @@ anjumanallana.in
 codehs.me
 pug-really-gatekeeping-public-methods.global.ssl.fastly.net
 dedyn.io
-vercel.app
 playcode.io
 wea-f.github.io
 itafricagroup.com
